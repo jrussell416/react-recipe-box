@@ -16,3 +16,36 @@ code {
   background-color: purple;
   text-align: center;
 }
+
+.card {
+  background-color: aqua;
+  border-radius: 25px;
+  position: relative;
+  margin: 5px 50px;
+  float: right;
+}
+
+.recipeImg {
+  height: 100px;
+}
+
+.ingList {
+  list-style: none;
+}
+
+ul li {
+  margin-right: 10%;
+}
+
+
+.instructions {
+  list-style: none;
+}
+
+.form  {
+  background-color: aqua;
+  border-radius: 25px;
+  position: relative;
+  margin: 5px 50px;
+  float: left;
+}
