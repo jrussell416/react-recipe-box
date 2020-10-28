@@ -49,3 +49,14 @@ ul li {
   margin: 5px 50px;
   float: left;
 }
+
+
+.recipeTitle {
+  border: orange solid 2px;
+  font-size: larger;
+  font-weight: bold;
+  list-style: none;
+}
+
+.imgStyle {
+}
